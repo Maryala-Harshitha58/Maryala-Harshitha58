@@ -1,13 +1,6 @@
 # 👋 Hi, I'm Harshitha  
 💼 Aspiring Software Developer | AI & Data Enthusiast
 
-🎓 Computer Science student passionate about building intelligent and scalable tech solutions.  
-💻 I specialize in **software development**, **full-stack web apps**, **AI/ML models**, and **data-driven systems**.
-
----
-# 💫 About Me:
-🎓 Computer Science student passionate about building intelligent and scalable tech solutions.<br>💻 I specialize in software development, full-stack web applications, AI/ML models, and data-driven systems.<br><br>
-
 
 ## 🚀 What I Do
 
@@ -84,13 +77,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40"/>
 </p>
 
+<!-- 🐍 Snake Animation (Dark Mode) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Maryala-Harshitha58/Maryala-Harshitha58/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Maryala-Harshitha58&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Maryala-Harshitha58&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryala-Harshitha58&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Maryala-Harshitha58&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Maryala-Harshitha58&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
