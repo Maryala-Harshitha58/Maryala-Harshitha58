@@ -80,9 +80,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40"/>
 </p>
 
-<!-- 🐍 Snake Animation (Dark Mode) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Maryala-Harshitha58/Maryala-Harshitha58/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+## 🐍 Watch my GitHub Contributions Snake
+
+![snake gif](https://github.com/Maryala-Harshitha58/Maryala-Harshitha58/blob/output/github-snake-dark.svg)
+
 </div>
 
 # 📊 GitHub Stats:
