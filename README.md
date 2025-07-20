@@ -1,6 +1,9 @@
+<div align="center">
+
 # 👋 Hi, I'm Harshitha  
 💼 Aspiring Software Developer | AI & Data Enthusiast
 
+</div>
 
 ## 🚀 What I Do
 
