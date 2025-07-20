@@ -82,12 +82,15 @@
 
 <div align="center">
 
-## 🐍 Watch my GitHub Contributions Snake
 
-![snake gif](https://github.com/Maryala-Harshitha58/Maryala-Harshitha58/blob/output/github-snake-dark.svg)
 
-</div>
+<h2 align="center" style="color:#FF6EC7;">🐍✨ GitHub Contribution Snake ✨🐍</h2>
 
+<p align="center">
+  <img src="https://github.com/Maryala-Harshitha58/Maryala-Harshitha58/blob/output/github-snake-light.svg#gh-light-mode-only" alt="snake game animation" />
+</p>
+
+<div align="center">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Maryala-Harshitha58&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -106,3 +109,4 @@
 [![](https://visitcount.itsvg.in/api?id=Maryala-Harshitha58&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
